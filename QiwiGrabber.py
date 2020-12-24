@@ -7,7 +7,7 @@ banner = Fore.YELLOW + Style.BRIGHT + """
 \ \ \ \ \    \ \ \     \ \ \ \ \ \ \    \ \ \
 \ \ \ \ \     \_\ \__   \ \ \_/ \_\ \    \_\ \
 
-  by @tenych69    |    t.me/termuxmam / PIRATIKA
+  by @li0ard [ovnl.in] |   t.me/termuxmam / PIRATIKA
 
 
 """ + Style.RESET_ALL
